@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "SherlockHolmes";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "SherlockHolmes version 1.0, Copyright (c) 2016 Ryan.";
+NSHumanReadableCopyright = "Copyright (c) 2016 Ryan.";
